@@ -24,7 +24,7 @@ pip install pyTelegramBotAPI imageai opencv-python numpy
 Скачайте модель YOLOv3 и поместите файл `yolov3.pt` в корневую директорию проекта. Модель можно скачать с [официального репозитория YOLO](https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/yolov3.pt).
 
 ### Настройка токена API
-Замените строку `Your token` в коде на ваш действительный токен API Telegram, полученный от BotFather(https://t.me/botfather).
+Замените строку `Your token` в коде на ваш действительный токен API Telegram, полученный от [BotFather](https://t.me/botfather).
 
 ## Использование
 1. Запустите бота.
